@@ -5,10 +5,10 @@ Jupyter notebook describing the different steps of define the different ASD subt
 To have access to the Aetna and BCH data, you will need IRB approval. When it is the case, you will need a user and pwd n to log into the database.
 
 ## How to
-The jupyter notebook XXXX all the code used for the analysis of the Aetna database. 
+The jupyter notebook Identifying the potential subtypes of ASD  all the code used for the analysis of the Aetna database. 
 
 ## Publication
-This code supports the analysis presented in the XXXXXXXXXX (publication to come).
+This code supports the analysis presented in the Large Scale Subtyping of Autism Spectrum Disorder in Different age groups of Children(publication to come).
 
 ## License
 
